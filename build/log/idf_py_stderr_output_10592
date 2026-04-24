@@ -1,0 +1,9 @@
+Command: cmake -G Ninja -B C:\Users\leth1\drivers\Oled\build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:\Users\leth1\.espressif\python_env\idf6.0_py3.10_env\Scripts\python.exe -DESP_PLATFORM=1 -DCCACHE_ENABLE=True C:\Users\leth1\drivers\Oled
+Configuration Report               
++---------------------------------+
+|  Parser Version: 1              |
+|  Verbosity: default             |
+|  Defaults policy: sdkconfig     |
+|  Status: Finished successfully  |
+|                                 |
++---------------------------------+
