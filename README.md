@@ -59,6 +59,3 @@ Oled/
 └── sdkconfig      # ESP-IDF configuration
 ```
 
-## License
-
-MIT License
